@@ -2,3 +2,4 @@ pandas
 requests
 google-genai
 pillow
+streamlit-calendar
