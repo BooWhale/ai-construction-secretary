@@ -3,4 +3,4 @@ Plaintext
 pandas
 requests
 google-genai
-pillow
+Pillow
